@@ -209,4 +209,4 @@ PowerToys is available as a full free version with all features and updates incl
 Download PowerToys today and elevate your Windows experience with this complete, free software package!
 
 ---
-**Last updated:** 2026-10-15 08:58:33 UTC
+**Last updated:** 2026-10-15 14:06:08 UTC
